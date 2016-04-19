@@ -1,3 +1,2 @@
-# hello-world
-First repo on github.
-This is for testing the new branch.
+# Football League Database
+This is a football league database which I created for databases course at university.
